@@ -1,0 +1,6 @@
+Revision history for Perl extension LinkRewrite.
+
+0.01  Thu May 23 13:46:44 2002
+	- original version; created by h2xs 1.20 with options
+		-X -n LinkRewrite
+
